@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestStage4" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-28T18:43:15" hostname="DESKTOP-5LIH0AK" time="2.459">
+  <properties/>
+  <testcase name="start" classname="TestStage4" time="2.459"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+The username is Max.
+?[1;31m
+Start test 2?[0m
+The file 'abc.txt' is tracked.
+?[1;31m
+Start test 3?[0m
+These are SVCS commands:
+config     Get and set a username.
+add        Add a file to the index.
+log        Show commit logs.
+commit     Save changes.
+checkout   Restore a file.
+These are SVCS commands:
+config     Get and set a username.
+add        Add a file to the index.
+log        Show commit logs.
+commit     Save changes.
+checkout   Restore a file.
+?[1;31m
+Start test 4?[0m
+Please, tell me who you are.
+The username is Max.
+The username is Max.
+The username is John.
+The username is John.
+?[1;31m
+Start test 5?[0m
+Add a file to the index.
+The file 'file9.txt' is tracked.
+Tracked files:
+file9.txt
+The file 'file481.txt' is tracked.
+Tracked files:
+file9.txt
+file481.txt
+Can't find 'file516.txt'.
+?[1;31m
+Start test 6?[0m
+The username is Anna453.
+The file 'first_file.txt' is tracked.
+The file 'second_file.txt' is tracked.
+Changes are committed.
+?[1;31m
+Start test 7?[0m
+The username is Sofie928.
+The file 'first_file.txt' is tracked.
+The file 'second_file.txt' is tracked.
+No commits yet.
+Message was not passed.
+Changes are committed.
+commit 19102798701704297113
+Author: Sofie928
+Test message
+Nothing to commit.
+Changes are committed.
+commit 19102798701293603002
+Author: Sofie928
+Test message3
+commit 19102798701704297113
+Author: Sofie928
+Test message
+?[1;31m
+Start test 8?[0m
+The username is Christine88.
+The file 'first_file.txt' is tracked.
+The file 'second_file.txt' is tracked.
+Changes are committed.
+Changes are committed.
+Commit id was not passed.
+Commit does not exist.
+commit 19102798701933464131
+Author: Christine88
+Second commit
+commit 1910279870-303977273
+Author: Christine88
+First commit
+Switched to commit 1910279870-303977273.
+?[1;31m
+Start test 9?[0m
+'wrongArg976' is not a SVCS command.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

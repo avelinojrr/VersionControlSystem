@@ -1,0 +1,10 @@
+type: hyperskill
+title: Version Control System
+language: English
+summary: The ability to roll back to the previous versions is crucial for software
+  development. In this project, you will get acquainted with the idea of version control
+  and write a simple version control system.<br/><br/>Learn more at <a href="https://hyperskill.org/projects/177?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card">https://hyperskill.org/projects/177</a>
+programming_language: Kotlin
+content:
+- Version Control System
+mode: Study
